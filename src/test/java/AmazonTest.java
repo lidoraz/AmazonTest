@@ -6,4 +6,8 @@ public class AmazonTest {
     public static String getStr(){
         return "hi";
     }
+    public static String getCAC(){
+        return "hi";
+    }
+
 }
